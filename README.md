@@ -25,13 +25,10 @@ A ideia nasceu do [MuTube](https://community.muos.dev/t/mutube-1-0-9-youtube-pla
 
 ## 🖼️ Capturas de tela
 
-<!-- Troque pelos seus prints: coloque as imagens na pasta docs/ -->
-<!--
 <p align="center">
-  <img src="docs/home.png" width="45%">
-  <img src="docs/resultados.png" width="45%">
+  <img src="knullitube/images_screenshot/cap1.png" width="45%">
+  <img src="images_screenshot/cap2.png" width="45%">
 </p>
--->
 
 *(em breve)*
 
