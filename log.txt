@@ -1,0 +1,8 @@
+11:42:05 app iniciando
+11:42:05 tela aberta, driver de vídeo: windows
+11:43:31 app iniciando
+11:43:31 tela aberta, driver de vídeo: windows
+11:51:10 app iniciando
+11:51:11 tela aberta, driver de vídeo: windows
+11:52:26 app iniciando
+11:52:26 tela aberta, driver de vídeo: windows
