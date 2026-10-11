@@ -26,7 +26,7 @@ A ideia nasceu do [MuTube](https://community.muos.dev/t/mutube-1-0-9-youtube-pla
 ## 🖼️ Capturas de tela
 
 <p align="center">
-  <img src="knullitube/images_screenshot/cap1.png" width="45%">
+  <img src="images_screenshot/cap1.png" width="45%">
   <img src="images_screenshot/cap2.png" width="45%">
 </p>
 
